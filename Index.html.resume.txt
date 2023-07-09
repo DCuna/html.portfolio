@@ -1,0 +1,79 @@
+<html lang ="en" >
+
+    <head>Resume</head>
+
+        <meta charset="UTF-8">
+        <title>Resume</title>
+
+        <body>
+            <h1>Edson Cuna</h1>
+            <img src="profile image.jpg" height="150" alt="A photo of Profile">
+
+            <h2>Summary</h2>
+            <p>I am Computer's Engineering Student and dedicating my times with web Development and Programming.</p>
+            <hr>
+
+        <h2>Education</h2>
+            <ol>
+                <li>High School completed (2017-2020)-Secondary of Alges </li>
+                <li>Bachelor of Systems analysis and development(2023-2025)-University of Marilia</li>
+                <li>Bachelor of Computer's Engineering (2023-2027)- Adventist University Center of Sao Paulo</li>
+            
+            <hr>
+
+            
+<h2>Work Experience</h2>
+
+        <h2> . Kitchen assistant</h2>
+     
+     <p>March 2022 - Present</p>
+
+     <hr>
+
+<h2>Skills</h2>
+<ul>
+    <li>HTML intermediate</li>
+    <li>C Programming intermediate</li>
+    <li>Python Basic</li>
+    <li>Programming's Logic</li>
+    <li>Microsoft excel intermediate</li>
+    <li>Microsoft Powerpoint intermediate</li>
+    <li>Microsoft Word intermediate</li>
+</ul>
+<hr>
+
+<h2>Language</h2>
+<ul>
+    <li>Portuguese Native</li>
+    <li>English Upper intermediate</li>
+    <li>German Basic</li>
+</ul>
+<hr>
+
+<h2>Awards and Certification</h2>
+<ul>
+    <li> Attendance's Certificate of National Language Competition in Sao Tome and Principe(2019)</li>
+    <li>Certificate of Generation Unlimited Youth Challenge by PNUD and UNICEF (February 2020)</li>
+    <li>Certificate of Acknowledgment by China's Friendship (September 2019)</li>
+</ul>
+
+<hr>
+
+<h2>Other</h2>
+<ul>
+   <li><a href="./Hobbies.html"> My Hobbies</a></li> 
+<li><a href="Contact .html">Contact me </a</li>
+
+</ul>
+<footer>
+    <p>Copyright 2023 . Edson Cuna</p>
+  </footer>
+
+        
+        
+</body>
+
+
+
+
+    
